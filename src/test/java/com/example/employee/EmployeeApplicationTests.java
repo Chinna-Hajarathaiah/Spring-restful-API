@@ -9,5 +9,10 @@ class EmployeeApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@test
+	void test1()
+	{
+		
+	}
 
 }
